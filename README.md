@@ -67,3 +67,44 @@ It automates the information gathering phase of security assessments by collecti
 ---
 
 ## 📁 Project Structure
+
+
+
+🔰 About Developer
+Info	Details
+Name	Maxod anonmoty
+GitHub	@anonmoty
+Tool	RED HAWK v3.0
+Purpose	Educational & Authorized Security Testing
+
+
+
+
+---
+
+## 🚀 Installation
+
+### Termux (Android)
+
+```bash
+# Update packages
+pkg update && pkg upgrade -y
+
+# Install dependencies
+pkg install python git
+
+# Clone the repository
+git clone https://github.com/anonmoty/Red_Hawk.git
+
+# Navigate to directory
+cd Red_Hawk
+#fikw.list 
+
+ls
+
+# Install Python packages
+pip install -r requirements.txt
+
+# Run the tool
+python start.py
+
